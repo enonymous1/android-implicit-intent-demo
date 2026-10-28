@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Window theme only; the in-app theme is MaterialTheme in Compose. -->
+    <style name="Base.Theme.ImplicitIntentDemo" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.ImplicitIntentDemo" parent="Base.Theme.ImplicitIntentDemo" />
+</resources>

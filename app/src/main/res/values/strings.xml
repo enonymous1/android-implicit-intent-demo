@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Implicit Intent Demo</string>
+    <string name="add_person">Add person</string>
+    <string name="view_person">View person</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="close">Close</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="host_heading">Implicit intents, end to end</string>
+    <string name="host_body">The host screen sends an implicit intent. The person screen answers it, then returns the person as a result intent. No data is stored by either screen.</string>
+    <string name="no_person">No person yet. Add one to see it here.</string>
+    <string name="unsupported_intent">This screen needs an add-person or view-person intent.</string>
+</resources>
